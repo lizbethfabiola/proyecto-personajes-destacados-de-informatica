@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/proyecto-personajes-destacados-de-informatica/static/css/main.f855e6bc.css",
-    "main.js": "/proyecto-personajes-destacados-de-informatica/static/js/main.d81306ed.js",
+    "main.css": "/proyecto-personajes-destacados-de-informatica/static/css/main.96ce85ac.css",
+    "main.js": "/proyecto-personajes-destacados-de-informatica/static/js/main.5785fc62.js",
     "static/js/787.ff4df52d.chunk.js": "/proyecto-personajes-destacados-de-informatica/static/js/787.ff4df52d.chunk.js",
-    "static/media/logo.svg": "/proyecto-personajes-destacados-de-informatica/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/1.jpg": "/proyecto-personajes-destacados-de-informatica/static/media/1.3d69f19eecc7b687d10d.jpg",
+    "static/media/2.jpeg": "/proyecto-personajes-destacados-de-informatica/static/media/2.8d0396faffe06de9c910.jpeg",
+    "static/media/6.jpg": "/proyecto-personajes-destacados-de-informatica/static/media/6.0e13b3775eed1d34dc5a.jpg",
+    "static/media/3.jpg": "/proyecto-personajes-destacados-de-informatica/static/media/3.130a31dbeca4ee2485c5.jpg",
+    "static/media/4.jpg": "/proyecto-personajes-destacados-de-informatica/static/media/4.c69db976fa203d28564d.jpg",
     "index.html": "/proyecto-personajes-destacados-de-informatica/index.html",
-    "main.f855e6bc.css.map": "/proyecto-personajes-destacados-de-informatica/static/css/main.f855e6bc.css.map",
-    "main.d81306ed.js.map": "/proyecto-personajes-destacados-de-informatica/static/js/main.d81306ed.js.map",
+    "main.96ce85ac.css.map": "/proyecto-personajes-destacados-de-informatica/static/css/main.96ce85ac.css.map",
+    "main.5785fc62.js.map": "/proyecto-personajes-destacados-de-informatica/static/js/main.5785fc62.js.map",
     "787.ff4df52d.chunk.js.map": "/proyecto-personajes-destacados-de-informatica/static/js/787.ff4df52d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.d81306ed.js"
+    "static/css/main.96ce85ac.css",
+    "static/js/main.5785fc62.js"
   ]
 }
